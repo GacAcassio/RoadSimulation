@@ -1,6 +1,7 @@
 #include <stdio.h>
 #include <stdlib.h>
 #include<time.h>
+#include "structs.h"
 #define varEntrada 6
 #define fixEntrada 9
 #define variacaoVeiculos 100
